@@ -1,0 +1,15 @@
+button{
+  margin:10px;
+  width:50px;
+  padding: 8px;
+  background: blue;
+  border:1px solid blue;
+  border-radius: 10px;
+  color:whitesmoke;
+  transition: 0.1s ease;
+
+
+}
+button:hover{
+  transform: scale(1.1);
+}

@@ -1,0 +1,47 @@
+body{
+background: pink;
+}
+
+.main{
+    background: whitesmoke;
+    border: 10px solid white;
+    border-radius: 20px;
+    width:70%;
+    height: auto;
+    padding:3px;
+    margin: 10px;
+
+    
+}
+.buttas{
+  display:flex;
+  flex-direction: row;
+  
+}
+.buttonontodo{
+  display: flex;
+  flex-direction: row;
+
+}
+
+.whole{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+input{
+  margin:5px;
+  width:80%;
+  border: 10px solid white;
+  border-radius:10px;
+}
+
+.headin{
+  margin: 10px;
+}
